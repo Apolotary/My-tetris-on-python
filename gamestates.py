@@ -1,0 +1,1 @@
+states = {'STATE_MENU' : '1', 'STATE_GAME' : '2', 'STATE_HIGHSCORES' : '3', 'STATE_SETTINGS' : '4', 'STATE_DONE' : '5', 'STATE_SETSCORE' : '6', 'STATE_ABOUT' : '7'}
